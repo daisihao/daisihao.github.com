@@ -5,8 +5,8 @@ header-img: img/home-bg.jpg
 email: daisihao@126.com
 description: "Cool Blog come from daisihao"
 keyword: ""
-url: "http://daisihao.github.io"              # your host, for absolute URL
-baseurl: "/daisihao"         # for example, '/blog' if your blog hosted on 'host/blog'
+url: "https://daisihao.github.io/"              # your host, for absolute URL
+baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
