@@ -30,8 +30,8 @@
 	* [开始](#get-started)
 	* [写一篇博文](#write-posts)
 * 各组成部分
-	* [侧边栏](#sidebar)
-	* [mini-about-me](#mini-about-me)
+	* [
+	* [mini-about-me](#mini-侧边栏](#sidebar)about-me)
 	* [标签云](#featured-tags)
 	* [好友链接](#friends)
 	* [HTML5演示文档布局](#keynote-layout)
