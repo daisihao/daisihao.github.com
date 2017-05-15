@@ -76,16 +76,16 @@ Jekyll官方网站还有很多的参数可以调，比如设置文章的链接�
 yaml 头文件长这样:
 
 ```
----
-layout:     post
-title:      "Hello 2015"
-subtitle:   "Hello World, Hello Blog"
-date:       2015-01-29 12:00:00
-author:     "Hux"
-header-img: "img/post-bg-2015.jpg"
-tags:
-    - Life
----
+
+------
+   layout:     post
+   title:      "Hello 2015"
+   subtitle:   "Hello World, Hello Blog"
+   date:       2015-01-29 12:00:00
+   author:     "Hux"
+   header-img: "img/post-bg-2015.jpg"
+   tags:
+       - Life
 
 ```
 
