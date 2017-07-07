@@ -3,12 +3,13 @@ layout:     post
 title:      "HTTPS的安全处理"
 subtitle:   "加密算法,摘要算法"
 date:       2017-06-31
-author:     "DSH"
-header-img: "img/post-bg-js-version.jpg"
+author:     "代思豪"
+header-img: "img/test1.gif"
 tags:
     - HTTPS
     - 加密算法
     - 再要算法
+    - 技术
 ---
 
 
