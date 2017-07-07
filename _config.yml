@@ -1,6 +1,6 @@
 # Site settings
 title: DSH Blog
-SEOTitle: 代思豪的博客 | daisihao Blog
+SEOTitle: 代思豪的博客 | daisihao Blog | 代思豪
 header-img: img/home-bg.jpg
 email: daisihao@126.com
 description: "Cool Blog come from daisihao"
@@ -15,7 +15,6 @@ RSS: false
 weibo_username:     3437719512
 zhihu_username:     dai-si-hao
 github_username:    daisihao
-#twitter_username:  huxpro
 facebook_username:  daisihao
 
 
@@ -52,7 +51,7 @@ kramdown:
 # Duoshuo settings
 duoshuo_username: daisihaoblog
 # Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+duoshuo_share: false                     # set to false if you want to use Comment without Sharing
 
 
 

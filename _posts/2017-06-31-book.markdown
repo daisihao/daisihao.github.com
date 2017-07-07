@@ -1,0 +1,12 @@
+---
+layout:     post
+title:      "大型分布式网站架构"
+subtitle:   "分布式开发"
+date:       2016-06-01
+author:     "DSH"
+header-img: "img/post-bg-js-version.jpg"
+tags:
+    - 读书心得
+    - Reading
+    - technology
+---
