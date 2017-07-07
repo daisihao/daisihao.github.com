@@ -1,6 +1,6 @@
 # Site settings
 title: DSH Blog
-SEOTitle: 代思豪的博客 | daisihao Blog | 代思豪
+SEOTitle: 代思豪 | daisihao Blog | 代思豪的博客
 header-img: img/home-bg.jpg
 email: daisihao@126.com
 description: "Cool Blog come from daisihao"
@@ -45,17 +45,6 @@ kramdown:
 
 
 
-# Disqus settings
-#disqus_username: _your_disqus_short_name_
-
-# Duoshuo settings
-duoshuo_username: daisihaoblog
-# Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: false                     # set to false if you want to use Comment without Sharing
-
-
-
-
 # Analytics settings
 # Baidu Analytics
 ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
@@ -66,15 +55,15 @@ ga_domain: daisihao.com
 
 
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
+sidebar: true               # whether or not using Sidebar.
 sidebar-about-description: "多读书，多学习，Be Better"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-hux.jpg    # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # Featured Tags
 featured-tags: true                     # whether or not using Feature-Tags
-featured-condition-size: 5              # A tag will be featured if the size of it is more than this condition value
+featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
 
 
 
