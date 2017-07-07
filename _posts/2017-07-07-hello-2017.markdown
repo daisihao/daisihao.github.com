@@ -6,9 +6,9 @@ date:       2017-07-07
 author:     "代思豪"
 header-img: "img/post-bg-js-version.jpg"
 tags:
-    - 读书心得
-    - Reading
-    - technology
+    - 生活
+    - 技术
+    - 心得
 ---
 
 歇歇又停停,拖了好一阵子,Blog总算还是开通了。
